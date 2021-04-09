@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;serenity-junit-starter&apos;" deleteContents="true" description="Delete resource &apos;serenity-junit-starter&apos;" element1="/serenity-junit-starter" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1606123029010"/>
+</session>
